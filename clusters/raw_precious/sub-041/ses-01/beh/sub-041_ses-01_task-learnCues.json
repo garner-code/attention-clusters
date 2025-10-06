@@ -1,0 +1,15 @@
+{
+    "sub": 41,
+    "session": 1,
+    "date": "17-Jun-2021 16:07:17",
+    "task": "learnCues",
+    "BIDS": "v1.0.2",
+    "Matlab": "vR2016b",
+    "PTB": "v3.0.16",
+    "PC": "Mac mini (Late 2014), High Sierra 10.13.6, 2.6 GHz Intel Core i5",
+    "display": "ASUS VG248",
+    "display_dist": "57 cm",
+    "resp_order": 1,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "target_contrasts": [0.05,0.05]
+}

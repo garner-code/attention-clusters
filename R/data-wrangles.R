@@ -15,8 +15,8 @@ get_raw_data <- function(sub_nums, data_path, new, savefpath = '~/Insync/tmp-dat
     save(raw, file = paste(savefpath, 'raw_data.RData', sep=""))
   } else {
     load(paste(data_path, 'raw_data.RData', sep=""))
-    raw
   }
+  raw
 }
 
 check_clean <- function(sub_nums, raw, data_path){

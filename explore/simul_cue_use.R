@@ -20,7 +20,7 @@ source("../R/behavioural-data-analysis-functions.R")
 
 ##############################################################################
 #### functions
-get_me_and_cert_ps <- function(m, bf_p = .05/7){
+get_me_and_cert_ps <- function(m, bf_p = .05){
   # which subs show a sig effect of both?
   if (m["cert", 4] < bf_p & m["reward_type", 4] < bf_p){
     y = TRUE
@@ -30,7 +30,7 @@ get_me_and_cert_ps <- function(m, bf_p = .05/7){
   if (y) m
 }
 
-get_single <- function(m, bf_p = .05/7, fx_keep = "cert", fx_reject = "reward_type"){
+get_single <- function(m, bf_p = .05, fx_keep = "cert", fx_reject = "reward_type"){
   # which subs show a sig effect of both?
   if (m[fx_keep, 4] < bf_p & m[fx_reject, 4] > bf_p){
     y = TRUE

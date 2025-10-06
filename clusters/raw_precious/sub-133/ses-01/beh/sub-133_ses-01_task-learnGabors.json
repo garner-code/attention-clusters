@@ -1,0 +1,15 @@
+{
+    "sub": 133,
+    "session": 1,
+    "date": "03-Jun-2021 08:09:52",
+    "task": "learnGabors",
+    "BIDS": "v1.0.2",
+    "Matlab": "v R2016b",
+    "PTB": "v 3.0.17",
+    "PC": "Mac mini (Mid 2011) High Sierra v 10.13.6 2.5 GHz Intel Core i5",
+    "display": "VG248",
+    "display_dist": "57 cm",
+    "resp_order": 2,
+    "resp_key": "clockwise: j, anticlockwise: f",
+    "target_contrasts": [0.05,0.06562873650130618]
+}

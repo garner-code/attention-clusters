@@ -1,0 +1,15 @@
+{
+    "sub": 91,
+    "session": 1,
+    "date": "18-May-2021 16:55:00",
+    "task": "learnCues",
+    "BIDS": "v1.0.2",
+    "Matlab": "v",
+    "PTB": "v",
+    "PC": " ",
+    "display": " ",
+    "display_dist": "57 cm",
+    "resp_order": 1,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "target_contrasts": [0.8691463403795913,0.8425100469495961]
+}

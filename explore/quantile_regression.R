@@ -64,5 +64,5 @@ both_subs_coefs %>% ggplot(aes(x=as.factor(q), y=beta, colour=new_ref,
 ggsave("../images/qreg/betas_by_bp.pdf", units = "cm", width = 16, height = 16)
 
 both_subs_coefs %>% ggplot(aes(x=beta, group_by=new_ref, colour=new_ref, fill=new_ref)) +
-  geom_histogram(alpha=0.5)
+  geom_histogram(alpha=0.5) + facet_wrap(~as.factor(q))
 ggsave("../images/qreg/betas_hists.pdf", units = "cm", width = 16, height = 16)

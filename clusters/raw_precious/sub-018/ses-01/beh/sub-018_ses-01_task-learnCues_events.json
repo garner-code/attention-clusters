@@ -1,0 +1,16 @@
+{
+    "sub": "subject number",
+    "sess": "session number",
+    "date": "31-May-2021 12:23:52",
+    "t": "trial number",
+    "loc": "1=tgt left, 2=tgt right",
+    "cue": "ptgtleft|cue, 1=.8,2=.2,3=.5",
+    "reward_conds": "1:hvh,2:hvl,3:lvl,4:lvh",
+    "co1": "contrast: left gabor",
+    "co2": "contrast: right gabor",
+    "or": "0=cw, 1=ccw",
+    "resp": "0=incorrect, 1=correct",
+    "rt": "response time",
+    "rew": "1:high,0:low,9:none",
+    "rew_tot": "if present: total reward accrued"
+}

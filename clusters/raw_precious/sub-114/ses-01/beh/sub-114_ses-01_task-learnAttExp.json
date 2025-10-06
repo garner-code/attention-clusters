@@ -1,0 +1,17 @@
+{
+    "sub": 114,
+    "session": 1,
+    "date": "26-May-2021 14:36:32",
+    "task": "learnAttExp",
+    "BIDS": "v1.0.2",
+    "Matlab": "v",
+    "PTB": "v",
+    "PC": " ",
+    "display": " ",
+    "display_dist": "57 cm",
+    "resp_order": 1,
+    "resp_key": "clockwise: f, anticlockwise: j",
+    "reward_key": "row 1 = high reward col, row 2 = low reward col, rgb",
+    "reward_cols": [[0,82],[130,95],[0,186]],
+    "target_contrasts": [0.3552534283974529,0.3095171394141928]
+}

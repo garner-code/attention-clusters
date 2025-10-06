@@ -1,0 +1,17 @@
+{
+    "sub": 111,
+    "session": 1,
+    "date": "26-May-2021 08:44:21",
+    "task": "learnReward",
+    "BIDS": "v1.0.2",
+    "Matlab": "v MATLAB R2016b",
+    "PTB": "v 3.0.17",
+    "PC": "Mac mini (Late 2014) High Sierra V 10.13.6 2.8 GHz Intel Core i5",
+    "display": "ASUS VG248",
+    "display_dist": "57 cm",
+    "resp_order": 2,
+    "resp_key": "clockwise: j, anticlockwise: f",
+    "reward_key": "row 1 = high reward col, row 2 = low reward col, rgb",
+    "reward_cols": [[82,0],[95,130],[186,0]],
+    "target_contrasts": [0.05,0.05]
+}
